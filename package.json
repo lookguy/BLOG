@@ -1,0 +1,8 @@
+{
+  "name": "nextjsblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lookguy/BLOG.git",
+  "author": "招雄彬 <614619114@qq.com>",
+  "license": "MIT"
+}
